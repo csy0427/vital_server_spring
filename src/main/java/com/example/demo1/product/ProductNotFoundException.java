@@ -1,0 +1,5 @@
+package com.example.demo1.product;
+
+public class ProductNotFoundException extends RuntimeException{
+
+}
